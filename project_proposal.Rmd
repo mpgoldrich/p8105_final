@@ -4,35 +4,48 @@ author: "Madison Goldrich (mpg2166), Sarah Haberlack (skh2164), Mirah Koota (msk
 output: github_document
 ---
 
-## Tentative Project Title
+## Tentative Project Title: Museums, Aquariums, and Zoos in the United States
 
+## Project Motivation
 
-
-## Motivation
-
-
+Museums help to teach, inspire, and connect communities. Their presence (or lack thereof) must influence outcomes
 
 ## Intended Final Products
 
-
+* Website with landing page, project report, interactive map, and analyses
 
 ## Anticipated Data Sources
 
-
+* Museums, Aquariums, and Zoos dataset from the Institute of Museum and Library Services
+  * "The museum data was compiled from IMLS administrative records for discretionary grant recipients, IRS records for tax-exempt organizations, and private foundation grant recipients."
+* NHANES 2017 pre-pandemic data (educational attainment and other demographics)
+* NHIS (data on mental health)
+* IRS 2013 data on median income by zip code
 
 ## Planned Analyses/Visualizations/Coding Challenges
 
 ### Analyses
 
-
+* Exploratory: summarize museum data (types, locations, revenue)
+* Regression:
+  * Population density vs. museums
+  * Average income per region vs. museums
+  * Museums vs. educational attainment
+  * Museums vs. mental health, health outcomes, etc.
 
 ### Visualizations
 
-
+* Graphs from the above analyses
+* We have museum latitude & longitude data, so we plan to use `leaflet` to make an interactive map
 
 ### Coding Challenges
 
-
+* Cleaning data, merging multiple data sources, missing data, establishing group workflow using GitHub
 
 ## Planned Timeline
 
+* 11/13-11/17 project review meeting
+* 11/28 complete quantitative analyses
+* 12/5 finalize report and main website components
+* 12/5-12/9 complete screencast
+* 12/9 report, webpage + screencast, peer assessment complete
