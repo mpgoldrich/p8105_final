@@ -3,3 +3,20 @@ P8105 Final Project Proposal
 Madison Goldrich (mpg2166), Sarah Haberlack (skh2164), Mirah Koota
 (msk2265), Teresa Moore (tem2171)
 
+## Tentative Project Title
+
+## Motivation
+
+## Intended Final Products
+
+## Anticipated Data Sources
+
+## Planned Analyses/Visualizations/Coding Challenges
+
+### Analyses
+
+### Visualizations
+
+### Coding Challenges
+
+## Planned Timeline
